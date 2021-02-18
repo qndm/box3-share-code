@@ -19,4 +19,4 @@ Object.assign(entity, {
   particleNoise: 5,
   particleNoiseFrequency: 5,
   particleVelocity: new Box3Vector3(0, 0, 0),
-})
+});
